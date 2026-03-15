@@ -63,30 +63,6 @@ DecodeUp Private Limited
 
 ---
 
-# 💼 Career Journey
-
-## 🏢 DecodeUp Private Limited
-
-**Web Developer (ReactJS)**
-Nov 2024 — Present
-
-- Building mission-critical UI for parking enforcement platforms
-- Developing modular and scalable frontend architecture
-- Engineering high-performance React systems
-
----
-
-## 🏢 Dignizant Technologies LLP
-
-**Web Developer (ReactJS, NodeJS)**
-Jul 2022 — Aug 2024
-
-- Built multiple production-ready SaaS applications
-- Developed REST APIs with Node.js & Express
-- Created high-performance React & Next.js applications
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -122,8 +98,6 @@ Jul 2022 — Aug 2024
 </div>
 
 ---
-
-# ⚡ Fun Fact
 
 <div align="center">
 
