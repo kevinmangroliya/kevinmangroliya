@@ -63,75 +63,6 @@ DecodeUp Private Limited
 
 ---
 
-# 🚀 Featured Projects
-
-## 🅿️ Parkloyalty
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="650"/>
-
-A **cloud-based parking management platform** designed for citation enforcement and permit management.
-
-### Highlights
-
-✔ Real-time **LPR data visualization**
-✔ Scalable **React component architecture**
-✔ **Role-based access control (RBAC)**
-
-**Stack**
-
-React.js
-Context API
-REST APIs
-Data Visualization
-
-🔗 https://parkloyalty.com
-
----
-
-## 📐 Geometra
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
-
-Advanced **construction management system** for **2D/PDF and 3D/BIM takeoff measurements**.
-
-### Highlights
-
-✔ Real-time collaborative measurement tools
-✔ BIM integration
-✔ Optimized UI for large engineering datasets
-
-**Stack**
-
-React.js
-Node.js
-WebSockets
-BIM Integration
-
-🔗 https://www.rukkor.com/product/geometra
-
----
-
-## 📊 CognitivePixel Dashboard
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
-
-Internal **360° analytics dashboard** for digital marketing insights.
-
-### Highlights
-
-✔ Meta marketing analytics integration
-✔ Advanced data filtering
-✔ Powerful visualization dashboards
-
-**Stack**
-
-React.js
-Ant Design
-Cloud APIs
-Analytics
-
----
-
 # 💼 Career Journey
 
 ## 🏢 DecodeUp Private Limited
@@ -173,16 +104,6 @@ Jul 2022 — Aug 2024
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmangroliya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
