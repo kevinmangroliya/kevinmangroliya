@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=React+%7C+Next.js+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Applications;Clean+Code+%2B+Great+User+Experience" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kevinmangroliya&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-
 </div>
 
 ---
