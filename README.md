@@ -71,16 +71,6 @@ DecodeUp Private Limited
 
 ---
 
-# 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmangroliya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
